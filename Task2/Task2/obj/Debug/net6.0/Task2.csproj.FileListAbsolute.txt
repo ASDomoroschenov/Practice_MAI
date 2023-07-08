@@ -1,0 +1,15 @@
+/home/alexandr/Practice_MAI/Task2/Task2/bin/Debug/net6.0/Task2
+/home/alexandr/Practice_MAI/Task2/Task2/bin/Debug/net6.0/Task2.deps.json
+/home/alexandr/Practice_MAI/Task2/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/home/alexandr/Practice_MAI/Task2/Task2/bin/Debug/net6.0/Task2.dll
+/home/alexandr/Practice_MAI/Task2/Task2/bin/Debug/net6.0/ref/Task2.dll
+/home/alexandr/Practice_MAI/Task2/Task2/bin/Debug/net6.0/Task2.pdb
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.dll
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/ref/Task2.dll
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.pdb
+/home/alexandr/Practice_MAI/Task2/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
